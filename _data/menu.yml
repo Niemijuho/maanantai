@@ -2,6 +2,9 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-    - post_list:
+- title: kirjoitukset
+  post_list:
       limit: 1000
       show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
