@@ -4,6 +4,12 @@ categories: säännöt
 layout: post 
 ---
 
+# olet pelaamassa peliä nimeltä kiketti, joka on suomalainen käännösversio ja mukaelma ranskalaisesta korttipelistä quéquette. tämä peli ei ole cabo, cambio, cactus, pablo, golf, polish polka, turtle, polish poker, poison, crazy nines tai mikään muu enemmän tai vähemmän samankaltainen korttipeli. tämä on kiketti.
+
+![ekapeli](/images/ekapeli.jpg)
+kuva vuoden 2018 alkupuolelta Oulusta. ensimmäisiä kikettipelejä Suomessa 
+
+
 ### sanastoa
 
 kiketöinti – “kiketti” huutaminen 

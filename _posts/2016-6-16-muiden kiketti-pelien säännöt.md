@@ -1,5 +1,5 @@
 ---
-title: muiden kiketti-pelien säännöt
+title: muiden -ketti pelien säännöt
 categories: säännöt
 layout: post 
 ---
