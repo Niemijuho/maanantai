@@ -1,23 +1,22 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
-
 entries:
-  - title: tervetuloa uusille nettisivuille!
+  - title: tervetuloa uusille nettisivuille ♥
   - title: lisensiaatit
-    URL: lisensiaatit.md
+    url: /lisensiaatit/2016/06/16/lisensiaatit.html
   - title: säännöt
     post_list: 
       category: säännöt
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
-  - title: palkintokaappi
+  - title: muu
     post_list:
-      category: palkintokaappi
+      category: muu
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
   - title: yhteystiedot
     entries:
       - title: <a href="https://www.instagram.com/kikettiofficial">kikettiofficial (instagram)</a>
-      - title: yleisissä ja sivua koskevissa asioissa juhojohannes@tutanota.com
+      - title: yleisissä ja etenkin nettisivua koskevissa asioissa juhojohannes@tutanota.com
