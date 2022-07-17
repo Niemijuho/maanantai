@@ -10,115 +10,278 @@ layout: post
 
 ### alla oleva lista on tällä hetkellä työn alla. mikäli koet saaneesi aiemmin lisenssin ja puutut nyt listasta niin ota yhteyttä. edellisten nettisivujen mukana (anteeksi) meni myös kuvat ja iskulauseet, joten jos tällaisen itsellesi haluat niin laita nekin viestillä
 
-### epätäydellinen lista lisensiaatteja (lukumäärä: 40)
+### epätäydellinen lista lisensiaatteja (lukumäärä: ??)
 
 ![nina](/liskuvat/nina.jpg)
-nina 
+<p style="text-align: center;font-size:30px;"> <b>nina</b> </p>
 
     "hei mää opin tämmösen hauskan pelin ranskassa!"    
 
+<br/><br/>
 
 ![santtu](/liskuvat/santtu.jpg)
-santtu
+<p style="text-align: center;font-size:30px;"> <b>santtu</b> </p>
 
     “sää katoit sen kortin joka putos!?”
     “muistatko kun oltiin berliinissä ja voitin kokoajan?”
     “hyvää huomenta ihminen”
 
+<br/><br/>
+
 ![juho](/liskuvat/juho.jpg)
-juho
+<p style="text-align: center;font-size:30px;"> <b>juho</b> </p>
 
     “no kunhan voitan santun ei muulla ny kauhiasti väliä”
     “kun häviää tarpeeks monta kertaa niin sit on ainakin pakko voittaa”
     "kas menin sit poistamaan aiemman nettisivun"   
 
+<br/><br/>
 
 ![elina](/liskuvat/elina.jpg)
-elina
+<p style="text-align: center;font-size:30px;"> <b>elina</b> </p>
 
 
 ![aarni](/liskuvat/aarni.jpg)
-aarni
+<p style="text-align: center;font-size:30px;"> <b>aarni</b> </p>
 
     "ooh classic!"
     *rinta, nuuhkaisu, rinta, pöytä*
 
 ![venlaa](/liskuvat/venla.jpg)
-venla a
+<p style="text-align: center;font-size:30px;"> <b>venla a</b> </p>
 
     “joo eiku mietin että oisinko tehny sillee mut ei siinä ois järkee eiku joo kyl mää teen sillee”
 
+<br/><br/>
 
 ![ville](/liskuvat/ville.jpg)
-ville
+<p style="text-align: center;font-size:30px;"> <b>ville</b> </p>
+
+<br/><br/>
 
 ![kalle](/liskuvat/kalle.jpg)
-kalle
+<p style="text-align: center;font-size:30px;"> <b>kalle</b> </p>
 
     “seiska kasi katso oma, kasi ysi katso toisen!”
 
-tuuli
+<br/><br/>
 
-kevät
+![tuuli](/liskuvat/tuuli.jpg)
+<p style="text-align: center;font-size:30px;"> <b>tuuli</b> </p>
 
-pekka
+    "njuu minäkin tuun pellaa!"
 
-niina
+<br/><br/>
 
-ilona
+![kevat](/liskuvat/kevat.jpg)
+<p style="text-align: center;font-size:30px;"> <b>kevät</b> </p>
 
-annie
+    “RÄH RÄH RÄH RÄH RÄHÄHÄÄHÄHÄHÄHÄHÄHÄHÄHÄÄHÄHÄHÄHÄH……..(100 pisteen kikettipommi)”
 
-asta
+<br/><br/>
 
-ronja
+![pekka](/liskuvat/pekka.jpg)
+<p style="text-align: center;font-size:30px;"> <b>pekka</b> </p>
 
-essi
+    "en oo varma vielä tuunko"
 
-venla u 
+<br/><br/>
 
-alise
+![niina](/liskuvat/niina.jpg)
+<p style="text-align: center;font-size:30px;"> <b>niina</b> </p>
 
-jukka
+    “Kymppi-kaks, kymppi-kaks!!!”
 
-asta
+<br/><br/>
 
-milju
+![ilona](/liskuvat/ilona.jpg)
+<p style="text-align: center;font-size:30px;"> <b>ilona</b> </p>
 
-mike
+<p style="text-align: center;font-size:30px;"> <b>*HALLITSEVA SUOMENMESTARI*</b> </p>
 
-otso
+<br/><br/>
 
-sanni 
+![annie](/liskuvat/annie.jpg)
+<p style="text-align: center;font-size:30px;"> <b>annie</b> </p>
 
-venla r
+    “ei kannattas mulle ryppyillä tässä vitun pelissä”
 
-johanna
+<br/><br/>
 
-sandra
+![asta](/liskuvat/asta.jpg)
+<p style="text-align: center;font-size:30px;"> <b>asta</b> </p>
 
-sane 
+    “nonii PELIÄ !!! *taputtaa käsiä*”
 
-santeri 
+<br/><br/>
 
-juhá
+![ronja](/liskuvat/ronja.jpg)
+<p style="text-align: center;font-size:30px;"> <b>ronja</b> </p>
 
-vv
+    “hääh onks se mun vuoro??”
 
-vilma 
+<br/><br/>
 
-milla
+![essi](/liskuvat/essi.jpg)
+<p style="text-align: center;font-size:30px;"> <b>essi</b> </p>
 
-kasim
+    ”aina mää joudun olee joku kikettipalvelija”
 
-nelia
+<br/><br/>
 
-kaisa
+![venlau](/liskuvat/venlau.jpg)
+<p style="text-align: center;font-size:30px;"> <b>venla u</b> </p>
 
-oona
+    *örinää*
 
-sofia
+<br/><br/>
 
-kirsi
+![miksu](/liskuvat/miksu.jpg)
+<p style="text-align: center;font-size:30px;"> <b>miksu</b> </p>
 
+<br/><br/>
+
+![alise](/liskuvat/alise.jpg)
+<p style="text-align: center;font-size:30px;"> <b>alise</b> </p>
+
+    “kai mun sit on pakko yolo-kiketöidä”
+
+<br/><br/>
+
+![jukka](/liskuvat/jukka.jpg)
+<p style="text-align: center;font-size:30px;"> <b>jukka</b> </p>
+
+    *selittää jotain jostai hirvestä*
+
+<br/><br/>
+
+![iiris](/liskuvat/iiris.jpg)
+<p style="text-align: center;font-size:30px;"> <b>iiris</b> </p>
+
+    “mun kädet on taas ihan hiessä”
+
+<br/><br/>
+
+![otso](/liskuvat/otso.jpg)
+<p style="text-align: center;font-size:30px;"> <b>otso</b> </p>
+
+<br/><br/>
+
+![sanni](/liskuvat/sanni.jpg)
+<p style="text-align: center;font-size:30px;"> <b>sanni</b> </p> 
+
+    "kyl mää oon joskus juhon ja santunkin voittanut"
+
+<br/><br/>
+
+![venlar](/liskuvat/venlar.jpg)
+<p style="text-align: center;font-size:30px;"> <b>venla r</b> </p>
+
+    "voitin mun ekan pelin mitä koskaa pelasin en unohda sitä ikinä!"
+
+<br/><br/>
+
+![milju](/liskuvat/milju.jpg)
+<p style="text-align: center;font-size:30px;"> <b>milju</b> </p>
+
+    “rillit motaril”
+
+<br/><br/>
+
+![mike](/liskuvat/mike.jpg)
+<p style="text-align: center;font-size:30px;"> <b>mike</b> </p>
+
+    “nakit silmillä ja rillit motarilla”
+
+<br/><br/>
+
+![sofia](/liskuvat/sofia.jpg)
+<p style="text-align: center;font-size:30px;"> <b>sofia</b> </p>
+
+    “siis onks tää joku roolipeli"
+
+<br/><br/>
+
+![santeri](/liskuvat/santeri.jpg)
+<p style="text-align: center;font-size:30px;"> <b>santeri</b> </p>
+
+    “oliks tää Kutonen joku erikoiskortti”
+
+<br/><br/>
+
+![juhana](/liskuvat/juhana.jpg)
+<p style="text-align: center;font-size:30px;"> <b>juhana</b> </p>
+
+<br/><br/>
+
+![vilma li](/liskuvat/vilma.jpg)
+<p style="text-align: center;font-size:30px;"> <b>vilma</b> </p>
+
+    “emmää kestä katsoa”
+
+<br/><br/>
+
+![pihla](/liskuvat/pihla.jpg)
+<p style="text-align: center;font-size:30px;"> <b>pihla</b> </p>
+
+    “emmää kestä katsoa”
+
+<br/><br/>
+
+![varakuva](/liskuvat/varakuva.jpg)
+<p style="text-align: center;font-size:30px;"> <b>kuka</b> </p>
+
+<br/><br/>
+
+![vv](/liskuvat/varakuva.jpg)
+<p style="text-align: center;font-size:30px;"> <b>vv</b> </p>
+
+<br/><br/>
+
+![vilma la](/liskuvat/varakuva.jpg)
+<p style="text-align: center;font-size:30px;"> <b>vilma la</b> </p>
+
+<br/><br/>
+
+![milla](/liskuvat/varakuva.jpg)
+<p style="text-align: center;font-size:30px;"> <b>milla</b> </p>
+
+<br/><br/>
+
+![kasim](/liskuvat/kasim.jpg)
+<p style="text-align: center;font-size:30px;"> <b>kasim</b> </p>
+
+    “tää olis ihan paras peli, jos ois eri säännöt”
+
+<br/><br/>
+
+![nelia](/liskuvat/varakuva.jpg)
+<p style="text-align: center;font-size:30px;"> <b>nelia</b> </p>
+
+<br/><br/>
+
+![kaisa](/liskuvat/varakuva.jpg)
+<p style="text-align: center;font-size:30px;"> <b>kaisa</b> </p>
+
+<br/><br/>
+
+![tommi](/liskuvat/varakuva.jpg)
+<p style="text-align: center;font-size:30px;"> <b>tommi</b> </p>
+
+<br/><br/>
+
+![oona](/liskuvat/varakuva.jpg)
+<p style="text-align: center;font-size:30px;"> <b>oona</b> </p>
+
+<br/><br/>
+
+![sofia](/liskuvat/varakuva.jpg)
+<p style="text-align: center;font-size:30px;"> <b>sofia</b> </p>
+
+<br/><br/>
+
+![kirsi](/liskuvat/varakuva.jpg)
+<p style="text-align: center;font-size:30px;"> <b>kirsi</b> </p>
+
+<br/><br/>
 
