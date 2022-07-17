@@ -220,7 +220,7 @@ layout: post
 ![vilma li](/liskuvat/vilma.jpg)
 <p style="text-align: center;font-size:30px;"> <b>vilma</b> </p>
 
-    “emmää kestä katsoa”
+    *näyttää keskisormea*
 
 <br/><br/>
 
@@ -228,11 +228,6 @@ layout: post
 <p style="text-align: center;font-size:30px;"> <b>pihla</b> </p>
 
     “emmää kestä katsoa”
-
-<br/><br/>
-
-![varakuva](/liskuvat/varakuva.jpg)
-<p style="text-align: center;font-size:30px;"> <b>kuka</b> </p>
 
 <br/><br/>
 
