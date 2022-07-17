@@ -48,6 +48,8 @@ layout: post
     "ooh classic!"
     *rinta, nuuhkaisu, rinta, pöytä*
 
+<br/><br/>
+
 ![venlaa](/liskuvat/venla.jpg)
 <p style="text-align: center;font-size:30px;"> <b>venla a</b> </p>
 
