@@ -40,6 +40,7 @@ layout: post
 ![elina](/liskuvat/elina.jpg)
 <p style="text-align: center;font-size:30px;"> <b>elina</b> </p>
 
+<br/><br/>
 
 ![aarni](/liskuvat/aarni.jpg)
 <p style="text-align: center;font-size:30px;"> <b>aarni</b> </p>
