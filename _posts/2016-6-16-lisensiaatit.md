@@ -258,7 +258,7 @@ layout: post
 
 <br/><br/>
 
-![nelia](/liskuvat/varakuva.jpg)
+![nelia](/liskuvat/nelia.jpg)
 <p style="text-align: center;font-size:30px;"> <b>nelia</b> </p>
 
 <br/><br/>
@@ -273,7 +273,7 @@ layout: post
 
 <br/><br/>
 
-![oona](/liskuvat/varakuva.jpg)
+![oona](/liskuvat/oona.jpg)
 <p style="text-align: center;font-size:30px;"> <b>oona</b> </p>
 
 <br/><br/>
