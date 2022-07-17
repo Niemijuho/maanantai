@@ -4,6 +4,8 @@ categories: säännöt
 layout: post 
 ---
 
+## näitä harvemmin kukaan pelaa, mutta jos joku sattuisi innostumaan...
+
 ## BIKETTI (ran. bi-quette)
 
 kiketin ensimmäinen sisarpeli. aikaavievä, hankala ja äärimmäisen hektinen. niin kuin nuoriso nykyään sanoo, tässä on sitä “kaaottista energiaa!”

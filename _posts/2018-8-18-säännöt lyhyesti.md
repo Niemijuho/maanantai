@@ -6,6 +6,10 @@ layout: post
 
 # olet pelaamassa peliä nimeltä kiketti, joka on suomalainen käännösversio ja mukaelma ranskalaisesta korttipelistä quéquette. tämä peli ei ole cabo, cambio, cactus, pablo, golf, polish polka, turtle, polish poker, poison, crazy nines tai mikään muu enemmän tai vähemmän samankaltainen korttipeli. tämä on kiketti.
 
+### jos olet pelannut kikettiä hieman eri säännöillä ei hätää! tässä kuitenkin ne viralliset säännöt, jotka voit yrittää opetella omiin peleihisi
+
+### mikäli sinulla on kehitysehdotuksia sääntöihin tai kysymyksiä säännöistä ota yhteyttä juhojohannes@tutanota.com tai hätätilanteessa soita/txt 0503737713
+
 ![ekapeli](/images/ekapeli.jpg)
 kuva vuoden 2018 alkupuolelta Oulusta. ensimmäisiä kikettipelejä Suomessa 
 
@@ -44,7 +48,11 @@ pöytä(kortit) – pelaajan omat kortit edessään
 - pisteet lasketaan aina yhteen pelin edetessä
     - eli mikäli ensimmäisen kierroksen jälkeen pelaajalla oli 10 pistettä ja pelaaja saa toisella kierroksella 20 pistetä tulee toiselle riville kirjata sen hetkinen tilanne eli 10+20 eli 30 pistettä 
 - mikäli henkilö kiketöi kierroksella merkitään sen kierroksen pistemäärän perään ruksi (X)
+- kun pelaajalla on "kiketit täynnä" eli kahdella kierroksella kiketöitynä kannattaa alleviivata pelaajan nimi - näin pysyy nopeammin selvillä siitä kenellä on kiketit hoidettuna pois alta
 - mikäli pelataan kierros, jossa kukaan ei kiketöi merkataan tämän kierroksen rivin oikeaan ulkoreunaan pallura (⚫) merkkinä "hukkakierroksesta" 
+- **alla on esimerkki 4 hengen kiketti-pelin pöytäkirjasta"**
+![poytakirja](/images/pelikirja_esimerkki.jpg)
+
 
 ### pelin kulku 
 
@@ -91,8 +99,7 @@ tämä tarkoittaa sitä, että pakkaan ei voi tämän jälkeen lyödä yhtään 
 
 ## TARKENNUKSIA, ONGELMAKOHTIA, RATKAISUJA 
 ### alla on sääntölinjauksia, jotka toimivat ratkaisuina ongelmatilanteisiin ja tietynlaisina linjauksina sille, miten pelissä voi sujuvasti edetä
-### jokaisessa pelissä voi kuitenkin sovussa päättä itse millä tarkkuudella ja kuinka tiukasti halua yksityiskohtaisempia sääntöjä noudattaa. jos peli sujuu perusraameiltaan kuten tavanomainen kiketti on pilkuntarkkojen sääntöjen noudattamista tärkeämpää hyvä pelinhenki ja hauskanpito
-### mikäli sinulla on kehitysehdotuksia sääntöihin tai kysymyksiä säännöistä ota yhteyttä juhojohannes@tutanota.com tai hätätilanteessa soita/txt 0503737713
+### jokaisessa pelissä voi kuitenkin sovussa päättä itse millä tarkkuudella ja kuinka tiukasti halua yksityiskohtaisempia sääntöjä noudattaa. jos peli sujuu perusraameiltaan kuten tavanomainen kiketti on pilkuntarkkojen sääntöjen noudattamista tärkeämpää ehkä kuitenkin hyvä pelinhenki ja yhteinen hauskanpito
 
 - **ratkaisu jokaiseen tilanteeseen**
     - jos ette keksi muuta ratkaisua on KPS (kivi-paperi-sakset) käypä keino ratkaista lähes jokainen ongelmatilanne
@@ -103,15 +110,29 @@ tämä tarkoittaa sitä, että pakkaan ei voi tämän jälkeen lyödä yhtään 
         - tahalleen korttien lyöminen kasaan väärin sillä ajatuksella, että haluaa kerryttää itselleen pisteitä eteensä joita kiketöinyt pelaaja sitten saa myös itsekin ei ole hyvässä maussa
         - omalla vuorolla kortin lyöminen kasaan tahalleen nopeasti silloin, kun muut ovat lyömässä pöydästään vielä samoja korttejaan kuin mikä kasassa on ollut viimeksi on sallittua, vaikkakin aiheuttaa silmien pyörittelyä ja turhautumista
     - omat korttinsa saa kertoa, mutta muiden kortteja ei saa ääneen nimetä. ei ole myöskään hyvässä hengessä antaa vihjeitä siitä onko jonkun muun pelipöydän kortti pieni tai iso
-- pelaajan oikeus omaan vuoroonsa loppuu, kun on lyönyt kortin korttikasaan tai kun on suorittanut erikoisvoiman loppuun (eli kun on katsonut tai vaihtanut kortteja ja ne ovat palautuneet paikalleen ja pelaajan käsi irtoaa kortista). jos seuraava pelaaja aloittaa oman vuoronsa liian aikaisin on edellisellä oikeus kiketöidä jos ei ole saanut pelata vuoroaan rauhassa loppuun. pelaaja saa myös rauhassa päättää käyttääkö erikoisvoimaa ja on helpointa ilmoittaa selkeästi, jos ei aio käyttää voimaa
-- jos samalla vuorolla tyhjentää pöydän ja kiketöi täytyy kiketti olla huudettuna ennen kuin viimeinen kortti osuu pakkaan. kun jollain pelaajalla osuu pelipöydästään viimeinen kortti pakkaan kierros loppuu heti siihen
-- jos et ole nähnyt jotain korttia et tiedä mikä se on. tällä on merkitystä lähinnä jos pakassa on kortteja, jotka ovat tunnistettavissa esimerkiksi kuluman vuoksi
-- pelaaja ei voi aloittaa vuoroansa mutta olla ottamatta pakasta korttia ja pelkästään tyhjentää omat pöytäkorttinsa samalla kun huutaa kiketti. tästä on ollut epäselvyyttä, mutta näin ei ole missään vaiheessa voinut tehdä. eli siis, jos pelipakassa on sama kortti kuin sinulla on pöydässä ja vuoro vaihtuu sinulle et voi omalla vuorollasi pelkästään lyödä pöytääsi tyhjäksi ja kiketöidä, vaan sinun täytyy nostaa kortti ja joko lyödä se pelipakkaan tai vaihtaa pöytäkortiksisi
-- jos pelaa väärällä vuorolla siten, että nostaa pakasta kokonaan kortin irti joutuu laittamaan tämän kortin takaisin pakan keskelle (pakka on myös hyvä sekoittaa nopeasti) ja ottamaan yhden sakkokortin
-- jos käyttää voiman väärin (eli esimerkiksi kattoo oman kortin kun on lyönyt 9 pöytään) ei tätä voiman tuomaa tietoa saa hyödyntää tai jos on vaihtanut kortteja täytyy kortit palauttaa takaisin paikoilleen. väärin voiman käyttämisestä saa myös yhden sakkokortin
-- jos yrittää lyödä korttia pelipakkaan mutta heittää sen täysin ohi ei korttia lasketa olevan pakassa. jos kortti kuitenkin hipaisee mitään pakan osaa ja sitten lentää pois on kortti pakassa. jos on epäselvyyttä oliko kortti ennen tai jälkeen jotain muuta korttia pakassa ottakaa KPS
-- jos näkee vahingossa oman kortin mitä ei tiennyt täytyy ottaa toinen kortti tilalle ja asettaa nähty kortti keskelle pakkaa ja mielellään sekoittaa pakka 
-- jos koskee toisen pelaajan korttia muuten kuin erikoisvoimaa käyttäessä on pakko lyödä se pelipakkaan. oman pelaajan ei kuitenkaan tarvitse lyödä korttiaan, jos omaa korttia pelkästään koskettaa esim. tilanteessa jossa kaksi pelaajaa yrittää lyödä korttia 
-- jos kääntää kaikki omat korttinsa oikein päin (luulee pelin loppuneen) tulee kortit kääntää takaisin väärin päin. tässä tilanteessa kaikki muut saavat hyödyntää nähtyjä kortteja pelin loppuun asti ja löydä niitä korttikasaan. jos olisi viimeisenä vuorossa ennen korttien kääntöä mutta ehtii kääntää kortit ei pääse pelaamaan omaa kierrostaan vaan kierros päättyy
-- yhdellä yrityksellä saa löydä korkeintaan 3 kertaa väärin kortteja kasaan. tämä sen vuoksi, että yli 6 sakkokorttia helposti pilaa kerrallaan kyseisen pelaajan sekä mahdollisesti sillä kierroksella kiketöineen pelaajan loppupelin
+- **kierroksen loppuminen ja viimehetken peliliikkeet**
+    - pelaajan oikeus omaan vuoroonsa loppuu, kun on lyönyt kortin korttikasaan tai kun on suorittanut erikoisvoiman loppuun (eli kun on katsonut tai vaihtanut kortteja ja ne ovat palautuneet paikalleen ja pelaajan käsi irtoaa kortista). jos seuraava pelaaja aloittaa oman vuoronsa liian aikaisin on edellisellä oikeus kiketöidä jos ei ole saanut pelata vuoroaan rauhassa loppuun. pelaaja saa myös rauhassa päättää käyttääkö erikoisvoimaa ja on helpointa ilmoittaa selkeästi, jos ei aio käyttää voimaa
+- **kiketöinti ja pelipöydän tyhjentäminen**
+    - jos samalla vuorolla tyhjentää pöydän ja kiketöi täytyy kiketti olla huudettuna ennen kuin viimeinen kortti osuu pakkaan. kun jollain pelaajalla osuu pelipöydästään viimeinen kortti pakkaan kierros loppuu heti siihen
+- **tunnistan kortin sen takaosan ulkonäön perusteella**
+    - jos et ole nähnyt jotain korttia et tiedä mikä se on. tällä on merkitystä lähinnä jos pakassa on kortteja, jotka ovat tunnistettavissa esimerkiksi kuluman vuoksi
+- **kasassa on kortti mikä minulla on pöydässä ja lyömällä sen voisin tyhjentää pöytäni. haluisin samalla myös kiketöidä. mitä voin tehdä?**
+    - pelaaja ei voi aloittaa vuoroansa mutta olla ottamatta pakasta korttia ja pelkästään tyhjentää omat pöytäkorttinsa samalla kun huutaa kiketti. tästä on ollut epäselvyyttä, mutta näin ei ole missään vaiheessa voinut tehdä. eli siis, jos pelipakassa on sama kortti kuin sinulla on pöydässä ja vuoro vaihtuu sinulle et voi omalla vuorollasi pelkästään lyödä pöytääsi tyhjäksi ja kiketöidä, vaan sinun täytyy nostaa kortti ja joko lyödä se pelipakkaan tai vaihtaa pöytäkortiksisi, eli pelata vuoroasi
+- **joku pelasi väärälle vuorolla**
+    - jos pelaa väärällä vuorolla siten, että nostaa pakasta kokonaan kortin irti joutuu laittamaan tämän kortin takaisin pakan keskelle (pakka on myös hyvä sekoittaa nopeasti) ja ottamaan yhden sakkokortin
+- **käytin kortin voimaa väärin**
+    - jos käyttää voiman väärin (eli esimerkiksi kattoo oman kortin kun on lyönyt 9 pöytään) ei tätä voiman tuomaa tietoa saa hyödyntää tai jos on vaihtanut kortteja täytyy kortit palauttaa takaisin paikoilleen. väärin voiman käyttämisestä saa myös yhden sakkokortin
+- **löin kortin kasaan mutta se lensi ohi**
+    - jos yrittää lyödä korttia pelipakkaan mutta heittää sen täysin ohi ei korttia lasketa olevan pakassa. jos kortti kuitenkin hipaisee mitään pakan osaa ja sitten lentää pois on kortti pakassa. jos on epäselvyyttä oliko kortti ennen tai jälkeen jotain muuta korttia pakassa ottakaa KPS
+- **näin vahingossa oman korttini**
+    - jos näkee vahingossa oman kortin mitä ei tiennyt täytyy ottaa toinen kortti tilalle ja asettaa nähty kortti keskelle pakkaa ja mielellään sekoittaa pakka 
+- **koskin vastustajan korttia... mitä nyt?**
+    - jos koskee toisen pelaajan korttia muuten kuin erikoisvoimaa käyttäessä on pakko lyödä se pelipakkaan. oman pelaajan ei kuitenkaan tarvitse lyödä korttiaan, jos omaa korttia pelkästään koskettaa esim. tilanteessa jossa kaksi pelaajaa yrittää lyödä korttia 
+- **joku käänsi korttinsa ympäri liian aikaisin**
+    - jos kääntää kaikki omat korttinsa oikein päin (luulee pelin loppuneen) tulee kortit kääntää takaisin väärin päin. tässä tilanteessa kaikki muut saavat hyödyntää nähtyjä kortteja pelin loppuun asti ja löydä niitä korttikasaan. jos olisi viimeisenä vuorossa ennen korttien kääntöä mutta ehtii kääntää kortit ei pääse pelaamaan omaa kierrostaan vaan kierros päättyy
+- **joku löi monta kertaa putkeen väärin ja nyt sakkokortteja tuli aivan hirveä läjä**
+    - yhdellä yrityksellä saa löydä korkeintaan 3 kertaa väärin kortteja kasaan. tämä sen vuoksi, että yli 6 sakkokorttia helposti pilaa kerrallaan kyseisen pelaajan sekä mahdollisesti sillä kierroksella kiketöineen pelaajan loppupelin
+- **pelasin porukassa ja joku hoki useamman kerran, että "kymppi kaks?" ... mistä on kyse?**
+    - <a href="https://youtu.be/2EKsHZCfP8A">katso tämä</a>
+
 

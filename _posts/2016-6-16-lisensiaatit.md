@@ -10,6 +10,8 @@ layout: post
 
 ### alla oleva lista on tällä hetkellä työn alla. mikäli koet saaneesi aiemmin lisenssin ja puutut nyt listasta niin ota yhteyttä. edellisten nettisivujen mukana (anteeksi) meni myös kuvat ja iskulauseet, joten jos tällaisen itsellesi haluat niin laita nekin viestillä
 
+### kiketti-lisenssi on elinikäinen. ainoa tapa menettää lisenssi on lopettamalla peli keskenkaiken muusta kuin aivan välttämättömästä syystä
+
 ### epätäydellinen lista lisensiaatteja (lukumäärä: ??)
 
 ![nina](/liskuvat/nina.jpg)
@@ -268,9 +270,11 @@ layout: post
 
 <br/><br/>
 
-![tommi](/liskuvat/varakuva.jpg)
+![tommi](/liskuvat/tommi.jpg)
 <p style="text-align: center;font-size:30px;"> <b>tommi</b> </p>
 
+    "Ristiin rastiin huiskis hei, huomenna väsyttää eniwei"
+    
 <br/><br/>
 
 ![sofia](/liskuvat/varakuva.jpg)
