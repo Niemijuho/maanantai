@@ -10,6 +10,7 @@ layout: post
 
 6 pistettä, **ville** (26.6.2019)
 
+<br/><br/>
 
 **pelin voittaminen isoimmalla erotuksella toiseksi tulleeseen (eli selkein voitto)**
 
@@ -17,6 +18,7 @@ layout: post
 
 aiemmin 104 pistettä, **ville** (26.6.2019)
 
+<br/><br/>
 
 **pisin 0 pisteen putki**
 
