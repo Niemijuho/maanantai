@@ -200,8 +200,8 @@ layout: post
 
 <br/><br/>
 
-![sofia](/liskuvat/sofia.jpg)
-<p style="text-align: center;font-size:30px;"> <b>sofia</b> </p>
+![sofiam](/liskuvat/sofia.jpg)
+<p style="text-align: center;font-size:30px;"> <b>sofia m</b> </p>
 
     “siis onks tää joku roolipeli"
 
@@ -277,8 +277,8 @@ layout: post
     
 <br/><br/>
 
-![sofia](/liskuvat/varakuva.jpg)
-<p style="text-align: center;font-size:30px;"> <b>sofia</b> </p>
+![sofiap](/liskuvat/sofiap.jpg)
+<p style="text-align: center;font-size:30px;"> <b>sofia p</b> </p>
 
 <br/><br/>
 
