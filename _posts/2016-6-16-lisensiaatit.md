@@ -239,7 +239,7 @@ layout: post
 <br/><br/>
 
 ![vilma la](/liskuvat/varakuva.jpg)
-<p style="text-align: center;font-size:30px;"> <b>vilma la</b> </p>
+<p style="text-align: center;font-size:30px;"> <b>hesaäijä</b> </p>
 
 <br/><br/>
 
