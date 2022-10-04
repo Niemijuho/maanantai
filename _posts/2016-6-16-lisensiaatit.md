@@ -282,7 +282,7 @@ layout: post
 
 <br/><br/>
 
-![juha](/liskuvat/varakuva.jpg)
+![juha](/liskuvat/juha.jpg)
 <p style="text-align: center;font-size:30px;"> <b>juhá</b> </p>
 
 <br/><br/>
