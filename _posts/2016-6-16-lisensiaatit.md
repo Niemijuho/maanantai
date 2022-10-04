@@ -238,7 +238,7 @@ layout: post
 
 <br/><br/>
 
-![vilma la](/liskuvat/varakuva.jpg)
+![vilma la](/liskuvat/vilmala.jpg)
 <p style="text-align: center;font-size:30px;"> <b>hesaäijä</b> </p>
 
 <br/><br/>
