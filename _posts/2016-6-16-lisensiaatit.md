@@ -292,3 +292,14 @@ layout: post
 
 <br/><br/>
 
+![tassu](/liskuvat/tassu.jpg)
+<p style="text-align: center;font-size:30px;"> <b>kirsi</b> </p>
+
+<br/><br/>
+
+![karolina](/liskuvat/karolina.jpg)
+<p style="text-align: center;font-size:30px;"> <b>kirsi</b> </p>
+
+    ”Voitan aina sillo ku ei kiinnosta yhtää”
+<br/><br/>
+
