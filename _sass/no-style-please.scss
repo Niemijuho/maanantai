@@ -32,6 +32,7 @@ body {
   margin: 0;
   min-height: 100%;
   overflow-wrap: break-word;
+  padding-right: 14rem;
 }
 
 .post-meta { text-align: right; }
@@ -49,7 +50,7 @@ li { margin: 0.4rem 0; }
 .w {
   max-width: 640px;
   margin: 0 auto;
-  padding: 4rem 2rem;
+  padding: 6rem 4rem;
 }
 
 hr {
@@ -75,6 +76,15 @@ code {
 
 a{
   text-decoration:none;  
+}
+a:link{
+color: black;
+
+}
+
+a:visited {
+color: green;
+
 }
 
 div.highlighter-rouge code {
