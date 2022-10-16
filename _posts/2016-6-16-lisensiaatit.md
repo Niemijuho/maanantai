@@ -303,4 +303,4 @@ layout: post
     ”Voitan aina sillo ku ei kiinnosta yhtää”   
 
 ![epe](/liskuvat/varakuva.jpg)
-<p style="text-align: center;font-size:30px;"> <b>epe/b> </p> 
+<p style="text-align: center;font-size:30px;"> <b>epe</b> </p> 
