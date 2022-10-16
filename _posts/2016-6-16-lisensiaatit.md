@@ -12,7 +12,7 @@ layout: post
 
 ### kiketti-lisenssi on elinikäinen. ainoa tapa menettää lisenssi on lopettamalla peli keskenkaiken muusta kuin aivan välttämättömästä syystä
 
-### epätäydellinen lista lisensiaatteja (lukumäärä: 45)
+### epätäydellinen lista lisensiaateista (lukumäärä: 46)
 
 ![nina](/liskuvat/nina.jpg)
 <p style="text-align: center;font-size:30px;"> <b>nina</b> </p>
@@ -302,4 +302,5 @@ layout: post
 
     ”Voitan aina sillo ku ei kiinnosta yhtää”   
 
-
+![epe](/liskuvat/varakuva.jpg)
+<p style="text-align: center;font-size:30px;"> <b>epe/b> </p> 
