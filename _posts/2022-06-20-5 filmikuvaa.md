@@ -12,9 +12,6 @@ layout: post
 ![koti](/images/koti.jpg)
 
 
-![koti2](/images/koti2.jpg)
-
-
 ![kattaus](/images/kattaus.jpg)
 
 
