@@ -88,8 +88,7 @@ pakasta nostettua korttia saa rauhassa katsella ja tutkailla ja sen saa lyödä 
     - jos kiketöijällä ei ole vähiten pisteitä saa hän omat pisteensä + eniten pisteitä kierroksella omaavan pisteet. jos kiketöijällä on eniten pisteitä saa hän kaksi kertaa omat pisteensä 
     - jos kiketöijällä on nolla korttia pöydässä MUTTA jollain pelaajalla on 0 pistettä ei kiketti ole onnistunut ja tulee sakkopisteitä
     - mikäli joku muu kuin kiketöijä tyhjentää pöydän ei mahdollisesti huudettu kiketti onnistu (edes vaikka kiketöijällä olisi 0 pistettä pöydässä). kaikki pelaajta saavat omat pisteensä ja kiketöijä saa normaaliin tapaan omat+eniten pisteitä kierrokksella omaavan pisteet tai kahdesti omat jos itsellään on eniten 
-- jos missä tahansa vaiheessa kierrosta jollain pelaajalla tyhjenee omat pöytäkorttinsa, kierros päättyy
-tämä tarkoittaa sitä, että pakkaan ei voi tämän jälkeen lyödä yhtään korttia 
+- lisähuomioita mikäli kierros päättyy jonkun pöydän tyhjenemiseen
     - jos voiman käyttö on jollain pelaajalla kesken, se keskeytyy. kuitenkin jos esimerkiksi kahden kortin siirrosta on tehty jo yli puolet eli kortit ovat liikkuneet jo ristiin niin tämän saa suorittaa loppuun 
 - jos pelissä tulee epäselvyyksiä, kuten siitä kumpi ehti ensimmäisenä lyödä kortin pakkaan otetaan KPS eli kivi-paperi-sakset
 
