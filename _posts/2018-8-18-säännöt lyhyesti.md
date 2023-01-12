@@ -78,6 +78,7 @@ pakasta nostettua korttia saa rauhassa katsella ja tutkailla ja sen saa lyödä 
     -  jos lyö itseltään väärän kortin kasaan, joutuu näyttämään kaikille minkä kortin on lyönyt väärin ja ottamaan kaksi sakkokorttia
     -  jos lyö vastustajalta väärän kortin korttikasaan tämäkin kortti näytetään kaikille ennen kuin se palautuu vastustajan pöytäkortteihin, mutta väärin kortin lyönyt saa itselleen kaksi sakkokorttia. nähty kortti on vapaata riistaa ja kaikki saavat yrittää lyödä sitä, jos korttikasaan tulee sama kortti
 - omalla vuorollaan on myös mahdollisuus ”kiketöidä” eli huutaa ”kiketti”. tämä tarkoittaa sitä, että ”kiketöijän” jälkeen kaikki muut pelaajat saavat pelata kerran minkä jälkeen pelaajat paljastavat korttinsa ja suoritetaan pisteenlasku
+- kierros päättyy myös heti, kun joku lyö viimeisen korttinsa pöydästä eli tyhjentää pöytänsä. kaikki tämän jälkeen lyödyt kortit ovat myöhässä ja palautuvat takaisin paikalleen 
 - jos kiketti on huudettu pelissä, ei kyseisellä kierroksella voi kukaan muu huutaa kiketti
 - pelin aikana täytyy huutaa vähintään kaksi kertaa kiketti omalla vuorolla. pelin lopussa jokaisesta uupuvasta kiketistä saa 100 sakkopistettä 
 - kun kierros päättyy
@@ -86,6 +87,7 @@ pakasta nostettua korttia saa rauhassa katsella ja tutkailla ja sen saa lyödä 
     - pelaajat joilla on saman verran pisteitä kuin kiketöijällä saavat omat pisteensä
     - jos kiketöijällä ei ole vähiten pisteitä saa hän omat pisteensä + eniten pisteitä kierroksella omaavan pisteet. jos kiketöijällä on eniten pisteitä saa hän kaksi kertaa omat pisteensä 
     - jos kiketöijällä on nolla korttia pöydässä MUTTA jollain pelaajalla on 0 pistettä ei kiketti ole onnistunut ja tulee sakkopisteitä
+    - mikäli joku muu kuin kiketöijä tyhjentää pöydän ei mahdollisesti huudettu kiketti onnistu (edes vaikka kiketöijällä olisi 0 pistettä pöydässä). kaikki pelaajta saavat omat pisteensä ja kiketöijä saa normaaliin tapaan omat+eniten pisteitä kierrokksella omaavan pisteet tai kahdesti omat jos itsellään on eniten 
 - jos missä tahansa vaiheessa kierrosta jollain pelaajalla tyhjenee omat pöytäkorttinsa, kierros päättyy
 tämä tarkoittaa sitä, että pakkaan ei voi tämän jälkeen lyödä yhtään korttia 
     - jos voiman käyttö on jollain pelaajalla kesken, se keskeytyy. kuitenkin jos esimerkiksi kahden kortin siirrosta on tehty jo yli puolet eli kortit ovat liikkuneet jo ristiin niin tämän saa suorittaa loppuun 
