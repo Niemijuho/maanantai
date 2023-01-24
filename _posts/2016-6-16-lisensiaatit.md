@@ -304,3 +304,8 @@ layout: post
 
 ![epe](/liskuvat/varakuva.jpg)
 <p style="text-align: center;font-size:30px;"> <b>epe</b> </p> 
+
+<br/><br/>
+
+![aino](/liskuvat/varakuva.jpg)
+<p style="text-align: center;font-size:30px;"> <b>aino</b> </p>
