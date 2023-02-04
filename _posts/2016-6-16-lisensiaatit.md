@@ -304,6 +304,8 @@ layout: post
 
     ”Voitan aina sillo ku ei kiinnosta yhtää”   
 
+<br/><br/>
+
 ![epe](/liskuvat/varakuva.jpg)
 <p style="text-align: center;font-size:30px;"> <b>epe</b> </p> 
 
@@ -311,3 +313,10 @@ layout: post
 
 ![aino](/liskuvat/varakuva.jpg)
 <p style="text-align: center;font-size:30px;"> <b>aino</b> </p>
+
+<br/><br/>
+
+![hatim](/liskuvat/hatim.jpg)
+<p style="text-align: center;font-size:30px;"> <b>hatim</b> </p>
+
+    "onks tuo vihree ny punane vai musta?"  
