@@ -8,11 +8,9 @@ layout: post
 ## 1. on vähintään 4 pelaajaa 
 ## 2. mukana on vähintään 3 lisensiaattia 
 
-### alla oleva lista on tällä hetkellä työn alla. mikäli koet saaneesi aiemmin lisenssin ja puutut nyt listasta niin ota yhteyttä. edellisten nettisivujen mukana (anteeksi) meni myös kuvat ja iskulauseet, joten jos tällaisen itsellesi haluat niin laita nekin viestillä
-
 ### kiketti-lisenssi on elinikäinen. ainoa tapa menettää lisenssi on lopettamalla peli keskenkaiken muusta kuin aivan välttämättömästä syystä
 
-![laskuri](/images/laskuri.gif)
+# lisensiaatti-laskuri : 52 
 
 ### epätäydellinen lista lisensiaateista 
 
@@ -30,7 +28,7 @@ layout: post
     “muistatko kun oltiin berliinissä ja voitin kokoajan?”
     “hyvää huomenta ihminen”
 
-<br/><br/>
+<br/><br/>s
 
 ![juho](/liskuvat/juho.jpg)
 <p style="text-align: center;font-size:30px;"> <b>juho</b> </p>
@@ -320,3 +318,24 @@ layout: post
 <p style="text-align: center;font-size:30px;"> <b>hatim</b> </p>
 
     "onks tuo vihree ny punane vai musta?"  
+
+<br/><br/>
+
+![jasmin](/liskuvat/varakuva.jpg)
+<p style="text-align: center;font-size:30px;"> <b>jasmin</b> </p>
+
+<br/><br/>
+
+![louna](/liskuvat/varakuva.jpg)
+<p style="text-align: center;font-size:30px;"> <b>louna</b> </p> 
+
+<br/><br/>
+
+![mikko](/liskuvat/varakuva.jpg)
+<p style="text-align: center;font-size:30px;"> <b>mikko</b> </p>
+
+<br/><br/>
+
+![anna](/liskuvat/varakuva.jpg)
+<p style="text-align: center;font-size:30px;"> <b>anna</b> </p>
+
